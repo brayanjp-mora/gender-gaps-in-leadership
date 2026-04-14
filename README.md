@@ -1,7 +1,5 @@
 # Gender Gaps in Leadership: A Cross-Country Analysis
 
----
-
 ## Overview
 
 This project analyzes gender disparities in leadership using the Sustainable Development Goal (SDG) indicator:
