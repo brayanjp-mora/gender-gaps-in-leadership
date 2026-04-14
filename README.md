@@ -11,10 +11,3 @@ The analysis compares trends across Colombia and South Africa using data from th
 ## Objective
 
 To explore how women’s representation in managerial roles has evolved over time and identify differences across countries.
-
----
-
-## Data
-	•	Source: World Bank Open Data
-	•	Indicator: Proportion of women in managerial positions (%)
-	•	Time period: [e.g., 2000–2023]
