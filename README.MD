@@ -16,12 +16,15 @@ A cross country visualization exploring the gaps in leadership across countries 
 - 
 
 ## Repository Structure
+
+```
 gender-gaps-in-leadership/
 ├─ data/     #  original downloads (not tracked)
 ├─ docs/     # codebooks, data dictionaries, etc
 ├─ outputs/  # final figures and/or tables
 ├─ scripts/  # cleaning and plotting scripts 
 ├─.gitignore # ignored files
+```
 
 ## Citation
 - United Nations Statistics Division. 2026. Global SDG Indicators Data Platform. United Nations.
